@@ -1,6 +1,6 @@
 <?php
 
-namespace Oreilly\ModernPHP\Url;
+namespace Jumshud\Url;
 
 class Scanner {
 	/**
