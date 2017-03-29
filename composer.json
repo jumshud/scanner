@@ -1,5 +1,6 @@
 {
 	"name": "jumshud/scanner",
+	"version":"1.0.1",
 	"description": "Scan URLs from a CSV file and report inaccessible URLs",
 	"keywords": ["url", "scanner", "csv"],
 	"homepage": "",
